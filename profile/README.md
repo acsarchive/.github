@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organization will record some learning notes when I leanr **CS**, like data structure, database, operating system, computer network.
+This organization will record some learning notes when I learn **CS**, like data structure, database, operating system, and computer network.
 
 <!--
 
